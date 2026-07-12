@@ -444,16 +444,6 @@ Cloud Security
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/TECH-ANSHU/TECH-ANSHU/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</p>
-
----
-
 # 💭 Personal Motto
 
 > **"Turning data into decisions, code into solutions, and security into confidence."**
