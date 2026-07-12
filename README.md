@@ -453,11 +453,7 @@ Cloud Security
 # 📸
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/TECH-ANSHU/TECH-ANSHU/main/assets/profile.jpg"
-     width="220"
-     alt="Anshuman Polai"/>
-
+  <img src="./assets/profile.png" width="220" alt="Anshuman Polai"/>
 </p>
 
 <h3 align="center">
