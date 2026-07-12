@@ -34,7 +34,7 @@ I enjoy solving practical problems through automation, data analysis, and secure
 
 **B.Tech – Computer Science & Engineering (Cyber Security)**  
 ITER, Siksha 'O' Anusandhan University  
-2023 – 2027
+2021 – 2025
 
 ---
 
